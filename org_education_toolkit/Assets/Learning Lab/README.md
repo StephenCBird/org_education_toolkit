@@ -1,7 +1,3 @@
-# Learning Lab Boilerplate
-
-This repository is a boilerplate for creating [Learning Lab courses](https://lab.github.com/docs/).
-
 # Learning Lab Outline
 
 ## 1. general org overview - mod 1
@@ -60,8 +56,13 @@ This repository is a boilerplate for creating [Learning Lab courses](https://lab
 > ll_demo to modify individual permission on team?
 > settings for repo vs org comparison?
 
-## 4. Pro Tips
-review best practices; @hollywood assist with general engineering implementation, QOL type things 
-  - [ ] do and do not list
-  - [ ] errors
-  - [ ] shameless plug for implementation team
+
+
+# <ins> Attributions and Contributions </ins>
+This repository is adapted from the:
+* ### [:octocat: GitHub Learning Lab](https://lab.github.com/docs/)
+  * [Learning Lab boilerplate repository](https://github.com/githubtraining/learning-lab-boilerplate) 
+  * [Write a LL course template](https://github.com/githubtraining/write-a-ll-course-template)
+
+
+
