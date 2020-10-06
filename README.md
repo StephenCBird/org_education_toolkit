@@ -7,7 +7,7 @@
 - [ ] learn some best practices when it comes to managing org
 
 #### <ins>_**Jump to Section**_</ins>
-- Learn GitHub Organizations by doing via [Github Learning Lab]()
-- Learn GitHub Organizations by watching via [Youtube™](https://www.youtube.com)
-- Learn GitHub Organizations by reading via [GitHub Organizations Manual]()
-- TL:DR for GitHub?  Checkout the [GitHub Organization Cheat Sheet]()
+- Learn GitHub Organizations by doing via [Github Learning Lab](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Learning%20Lab)
+- Learn GitHub Organizations by watching on [Youtube™](https://www.youtube.com/user/GitHubGuides)
+- Learn GitHub Organizations by reading via [GitHub Organizations Manual](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Manual)
+- TL:DR for GitHub?  Checkout the [GitHub Organization Cheat Sheet](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Cheat%20Sheet)
