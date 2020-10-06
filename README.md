@@ -1,5 +1,5 @@
 # __Org Overview__
-#### _goals_
+#### _**goals**_
 - [ ] understand basic org structure
 - [ ] understand create org and setup
 - [ ] understand managing people and teams
