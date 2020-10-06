@@ -49,7 +49,7 @@ ___
 - LL_demo 
 `create repo_1`
 - `user create repo_2`
-- [ ] goal to create Org repo
+- [ ] goal to learn to create Org repo
 
  #### <ins>repo access/management</ins>
 - LL_demo `assign team 1 to repo_1"
