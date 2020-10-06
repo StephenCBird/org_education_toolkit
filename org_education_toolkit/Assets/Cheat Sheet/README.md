@@ -2,9 +2,10 @@
 
 ## Glossary of terms
 
-## Links to FAQs
+## Links to Guides
+[GitHub Guide to Organizations](https://resources.github.com/downloads/github-guide-to-organizations.pdf)
 
-## Links to Learning Labs
+## Links to Pertinent Learning Labs
 
 ## Links to other cheat sheets
 
