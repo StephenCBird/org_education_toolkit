@@ -1,24 +1,27 @@
-# Learning Lab Outline
-
-## 1. general org overview - mod 1
+# <ins>Learning Lab Outline</ins>
+___
+## <Ins>1. general org overview</ins>
+___
 - cover basics who, what, where, when, why
 <!-- Cover CI/CD? -->
 - `create issue - create org - close issue`
 - [ ] Goal to learn basics of GitHub flow with Orgs
 - [ ] Goal to learn how to create org
 
-## 2. admin setup - mod 2
-- ## overview - mod 2.1
+## <ins>2. admin setup</ins>
+___
+ ### <ins>overview</ins>
 - cover basic admin setup
 - review initial settings
-- ## settings - mod 2.2
+ ### <ins>settings</ins>
   - `create issue - update profile info - close issue`
   - High level overview general settings including security, webhooks, installing github apps
   <!-- `maybe install select GitHub app?` -->
-[ ] Goal to learn simple profile management
+- [ ] Goal to learn simple profile management
 
-## 3. org explore - mod 3
-- ### people management
+## <ins>3. org explore</ins>
+___
+ ### <ins>people management</ins>
 - LL_demo `add user to org`
 - 
     ```
@@ -26,9 +29,10 @@
       assign dummy A read/write access
       assign dummy B read only access
     ```
-[ ] goal to learn to add users and modify & update permissions
+- [ ] Goal to learn to add users
+- [ ] Goal to learn how to modify & update permissions
 
-- ### teams - mod 4
+ ### <ins>teams</ins>
 - LL_demo `create team 1`
 - 
      ```
@@ -36,21 +40,22 @@
       create team 3 with dummy_user B and assign team permissions
         nest team 3 to team 2 
      ```
-- [ ] goal to learn how to create teams
-- [ ] goal to learn how to nest teams
-- [ ] goal to learn how to modify team permissions
+- [ ] Goal to learn how to create teams
+- [ ] Goal to learn how to nest teams
+- [ ] Goal to learn how to modify team permissions
 
-- ### repo creation - mod 5.1
+ ### <ins>Repositories</ins>
+ #### <ins>repo creation</ins>
 - LL_demo 
 `create repo_1`
 - `user create repo_2`
-[ ] goal to create Org repo
+- [ ] goal to create Org repo
 
-- ### repo access/management - mod 5.2
+ #### <ins>repo access/management</ins>
 - LL_demo `assign team 1 to repo_1"
 - `assign team 2 to repo_1`
 - `assign team 3 to repo_2`
-[ ] goal to learn assigning teams
+- [ ] goal to learn how to assign teams
 
 
 <!-- > ll_demo to modify individual permission on team?
