@@ -1,7 +1,7 @@
-# __Org Overview__
-#### _**goals**_
-- [ ] understand basic org structure
-- [ ] understand create org and setup
+# __Org Education Overview__
+#### <ins>_**Goals**_</ins>
+- [ ] understand how to create an organization and initial setup
+- [ ] learn basic navigation and structure of organization
 - [ ] understand managing people and teams
 - [ ] understand repository management in org
 - [ ] learn some best practices when it comes to managing org
