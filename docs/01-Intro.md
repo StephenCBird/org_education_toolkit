@@ -5,14 +5,18 @@ An organization is a collection of repositories that are typically maintained by
 
 ## Lets put this into action:
 
-Meet Stephen. ![image of me](https://avatars2.githubusercontent.com/u/42813339?s=60&v=4)
+Meet Stephen. 
+    ![image of me](https://avatars2.githubusercontent.com/u/42813339?s=60&v=4)
 
 Stephen runs a business where he sells blinker fluid online.
+
 As his business gained traction and popularity, Stephen had to expand. 
+
 He needed more control over his repositories and who accesses them.
+
 In comes GitHub Organizations.
 
 With GitHub Organizations, Stephen can:
 - [x] Manage all of his repositories from one place
 - [x] Organize individual staff into teams
-- [x] Provide access to the repositories to the correct teams
+- [x] Provide respository access and privileges to the correct team
