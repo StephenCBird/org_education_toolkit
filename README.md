@@ -12,7 +12,8 @@ At the conclusion of this training, the customer will be able to: create an orga
 ## <ins> Module Outline </ins>
 ### Introduction to GitHub Organizations 
 
-**Section summary:**---- 
+**Section summary:**
+ 
 In this section, we will get the trainee oriented to GitHub and GitHub Organizations
 
 #### Getting started
