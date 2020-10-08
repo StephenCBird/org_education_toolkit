@@ -1,7 +1,7 @@
 # <ins>Learning Lab Outline</ins>
-___
+
 ## <Ins>1. general org overview</ins>
-___
+
 - cover basics who, what, where, when, why
 <!-- Cover CI/CD? -->
 - `create issue - create org - close issue`
@@ -9,7 +9,7 @@ ___
 - [ ] Goal to learn how to create org
 
 ## <ins>2. admin setup</ins>
-___
+
  ### <ins>overview</ins>
 - cover basic admin setup
 - review initial settings
@@ -20,7 +20,7 @@ ___
 - [ ] Goal to learn simple profile management
 
 ## <ins>3. org explore</ins>
-___
+
  ### <ins>people management</ins>
 - LL_demo `add user to org`
 - 
