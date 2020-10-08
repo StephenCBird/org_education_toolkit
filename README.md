@@ -5,8 +5,9 @@ TO DO:
 - [ ] list of assests with links (Jump to Section)
 - [x] Goals
 
-GitHub is an amazing hosting platform for software development and hosts more than 190 million repositories for more than 60 million users <sup> [1](https://github.com/search?q=&ref=simplesearch) </sup>. Whether a company like Microsoft™ <sup> [2](https://github.com/microsoft) </sup> or an enthusiast trying to learn python for fun <sup> [3](https://lab.github.com/everydeveloper/introduction-to-python) </sup>, there is something for everyone.  
-An exciting feature which can help you take your next step with GitHub is Organizations.  Organizations allow you to better tackle managing a project and creating a better workflow for teams. Teams allow individuals within an organization to better communicate together and work towards a common goal.  
+GitHub is an amazing hosting platform for software development and hosts more than 190 million repositories for more than 60 million users. <sup> [1](https://github.com/search?q=&ref=simplesearch) </sup> Whether a company like Microsoft™ <sup> [2](https://github.com/microsoft) </sup> or an enthusiast trying to learn python for fun <sup> [3](https://lab.github.com/everydeveloper/introduction-to-python) </sup>, there is something for everyone. 
+
+An exciting feature which can help you take your next step with GitHub is Organizations.  Organizations allow you to better tackle managing a project and creating a better workflow for teams. Creating teams allows an organization to better communicate  and work towards a common goal.  
 
 If you're still not sold, here is a short video by GitHub talking about Organizations and Teams:
 [![](http://img.youtube.com/vi/MpRQ3uucPaM/0.jpg)](http://www.youtube.com/watch?v=MpRQ3uucPaM "Organizations and Teams") <sup> [4](http://www.youtube.com/watch?v=MpRQ3uucPaM) </sup>
