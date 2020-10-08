@@ -1,37 +1,33 @@
 # Creating your first organization
-Once you have created a GitHub account, navigate to the top right of your screen to the + dropdown and click.
-Select "New Organization" as the image below:
 
-![create organization](/img/create/create_org.png)
+1. Once you have created a GitHub account, navigate to the top right of your screen to the + dropdown and click. Select "New Organization" as the image below:
 
-Once selected, you should see the following:
+    ![create organization](/img/create/create_org.png)
 
-![pick a plan](/img/create/org_plans.png)
+1. Once selected, you will be prompted to pick a plan. From here, you can select the appropriate organization plan. For this training, click **Join for free**.
 
-From here, you can select the appropriate organization plan you would like.  
+    ![pick a plan](/img/create/org_plans.png)
+ 
 GitHub offers Organizations free of charge to all users.
 Different plans offer different functionality and offer varying levels of support.
 For now, select the free plan.
 
-Once selected, you will see the following screen:
+1. Once you have selected **Join for free**, you will be prompted to enter your organization information. Enter the **Organization account name**, **Contact email**, and then select who the organization belongs to either **My personal account** or **A business or institution**.  For this training select, **A business or institution**.
 
-![welcome](/img/create/create_fill_out_info.png)
+    ![init setup](/img/create/org_init_setup.png)
 
-Complete this page as you see fit for your business.  Once complete, click next.
+1. Once complete, click **Next**. The following screen will appear:
 
-The following screen will appear.
+    ![welcome](/img/create/create_fill_out_info.png)
 
-![init setup](/img/create/org_init_setup.png)
+1. Fill out the survey and click **Next**. For this training, put `this is for training purposes` in all **Other** fields. The following screen will appear:
 
-Once complete, select next.
+    ![welcome members](/img/create/create_org_add_members.png)
 
-You should see the following screen appear:
+1. From here, we can add members by searching by username, full name, or email address.  For this training, click **Skip this step**.
 
-![welcome members](/img/create/create_org_add_members.png)
-
-From here, we can add members if we so choose.  For now, we will click "Skip this step" at the bottom".
-
-Congratulations!
+#### Congratulations!
 You've just created your first GitHub Organization!
 
 ![success](img/create/create_org_success.png)
+![celebration octocat](https://octodex.github.com/images/welcometocat.png)
