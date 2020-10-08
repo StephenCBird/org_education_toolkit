@@ -1,20 +1,37 @@
-# Getting Started with GitHub Organizations
-## <ins>Description</ins>
-This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some best practices.  This training is intended for any individual with a basic working knowledge of Git and GitHub Flow who wants to take the next step to better organize the development of their product. 
+# Creating your first organization
+Once you have created a GitHub account, navigate to the top right of your screen to the + dropdown and click.
+Select "New Organization" as the image below:
 
-## <ins>Goals</ins>
-- understand how to create an organization and perform initial setup.
-- learn basic navigation and structure of organizations.
-- understand managing people and teams.
-- understand repository management in an organization.
-- learn some best practices when it comes to managing an organization.
+![create organization](/img/create/create_org.png)
 
-## <ins>Prerequisites</ins>
-It is recommended that you have a basic knowledge of GitHub and Workflow with GitHub.
-These Learning Labs might help if you feel like you need a brush up:
-- [First Day on GitHub series](https://lab.github.com/githubtraining/first-day-on-github)
-- [First Week on GitHub series](https://lab.github.com/githubtraining/first-week-on-github)
+Once selected, you should see the following:
 
-Although not entirely necessary, being familiar with **GitHub Actions** can help improve workflow and make your organization operate smoothly.
-Check out the link below for more information:
-- [DevOps with GitHub Actions series](https://lab.github.com/githubtraining/devops-with-github-actions)
+![pick a plan](/img/create/org_plans.png)
+
+From here, you can select the appropriate organization plan you would like.  
+GitHub offers Organizations free of charge to all users.
+Different plans offer different functionality and offer varying levels of support.
+For now, select the free plan.
+
+Once selected, you will see the following screen:
+
+![welcome](/img/create/create_fill_out_info.png)
+
+Complete this page as you see fit for your business.  Once complete, click next.
+
+The following screen will appear.
+
+![init setup](/img/create/org_init_setup.png)
+
+Once complete, select next.
+
+You should see the following screen appear:
+
+![welcome members](/img/create/create_org_add_members.png)
+
+From here, we can add members if we so choose.  For now, we will click "Skip this step" at the bottom".
+
+Congratulations!
+You've just created your first GitHub Organization!
+
+![success](img/create/create_org_success.png)
