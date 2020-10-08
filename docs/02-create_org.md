@@ -27,6 +27,5 @@
 #### Congratulations!
 You've just created your first GitHub Organization!
 
-{:.center}
 ![success](img/create/create_org_success.png)
 ![celebration octocat](https://octodex.github.com/images/welcometocat.png)
