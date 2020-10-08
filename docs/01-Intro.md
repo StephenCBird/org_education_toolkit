@@ -6,7 +6,8 @@ An organization is a collection of repositories that are typically maintained by
 ## Lets put this into action:
 
 Meet Stephen. 
-    ![image of me](https://avatars2.githubusercontent.com/u/42813339?s=60&v=4)
+
+![image of me](https://avatars2.githubusercontent.com/u/42813339?s=60&v=4)
 
 Stephen runs a business where he sells blinker fluid online.
 
