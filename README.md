@@ -1,7 +1,7 @@
 # Module: Managing a GitHub Organization
 
 ## <ins> Description </ins>
-This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some general best practices.  
+This training is intended to provide a high level overview of organization management including general overviews of structure and navigation; team and user management; repository management in organizations; and some general best practices.  
 
 ## <ins> Target Audience </ins>
 This training is intended for system administrators or development team leads who are responsible for managing an organizations transition to using GitHub Organizations. 
