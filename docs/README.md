@@ -1,24 +1,5 @@
-GitHub is an amazing hosting platform for software development and hosts more than 190 million repositories for more than 60 million users. <sup> [1](https://github.com/search?q=&ref=simplesearch) </sup> Whether a company like Microsoft™ <sup> [2](https://github.com/microsoft) </sup> or an enthusiast trying to learn python for fun <sup> [3](https://lab.github.com/everydeveloper/introduction-to-python) </sup>, there is something for everyone. 
+# Module: Managing a GitHub Organization
 
-An exciting feature which can help you take your next step with GitHub is Organizations.  Organizations allow you to better tackle managing a project and creating a better workflow for teams. Creating teams allows an organization to better communicate  and work towards a common goal.  
-
-If you're still not sold, here is a short video by GitHub talking about Organizations and Teams:
-[![](http://img.youtube.com/vi/MpRQ3uucPaM/0.jpg)](http://www.youtube.com/watch?v=MpRQ3uucPaM "Organizations and Teams") <sup> [4](http://www.youtube.com/watch?v=MpRQ3uucPaM) </sup>
-
-If you are ready to take the next step, continue below to begin your education on Organizations and Teams!
-## <ins>Jump to Section</ins>
-This training  provides an overview of managing and creaing an organization.  If you would like to jump to a specific resource for learning, please follow the link below:
-- Learn GitHub Organizations by doing via [Github Learning Lab](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Learning%20Lab)
-- Learn GitHub Organizations by watching on [Youtube™](https://www.youtube.com/user/GitHubGuides)
-- Learn GitHub Organizations by reading via [GitHub Organizations Manual](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Manual)
-- TL:DR?  Checkout the [GitHub Organization Cheat Sheet](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Cheat%20Sheet)
-
-
-
-
-Citations:
-[1]: [GitHub search feature](https://github.com/search?q=&ref=simplesearch)
-[2]: [Microsoft open source projects and samples](https://github.com/microsoft)
-[3]: [Introduction to Python Github Learning Lab](https://lab.github.com/everydeveloper/introduction-to-python)
-[4]: [Git & GitHub:Organizations and Teams](http://www.youtube.com/watch?v=MpRQ3uucPaM)
+## <ins> Description </ins>
+This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some general best practices.  
 

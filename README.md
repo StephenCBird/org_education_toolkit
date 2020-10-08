@@ -1,52 +1,55 @@
-TO DO:
-- [x] target audience
-- [ ] customary behavior outcomes
-- [ ] module outline/agenda, including topics covered, and methods of instruction/assessment
-- [ ] list of assests with links (Jump to Section)
-- [x] Goals
+# Module: Managing a GitHub Organization
 
-GitHub is an amazing hosting platform for software development and hosts more than 190 million repositories for more than 60 million users. <sup> [1](https://github.com/search?q=&ref=simplesearch) </sup> Whether a company like Microsoft™ <sup> [2](https://github.com/microsoft) </sup> or an enthusiast trying to learn python for fun <sup> [3](https://lab.github.com/everydeveloper/introduction-to-python) </sup>, there is something for everyone. 
+## <ins> Description </ins>
+This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some general best practices.  
 
-An exciting feature which can help you take your next step with GitHub is Organizations.  Organizations allow you to better tackle managing a project and creating a better workflow for teams. Creating teams allows an organization to better communicate  and work towards a common goal.  
+## <ins> Target Audience </ins>
+This training is intended for system administrators or development team leads who are responsible for managing an organizations transition to using GitHub Organizations. 
 
-If you're still not sold, here is a short video by GitHub talking about Organizations and Teams:
-[![](http://img.youtube.com/vi/MpRQ3uucPaM/0.jpg)](http://www.youtube.com/watch?v=MpRQ3uucPaM "Organizations and Teams") <sup> [4](http://www.youtube.com/watch?v=MpRQ3uucPaM) </sup>
+## <ins> Customer Behavioral Outcomes </ins>
+At the conclusion of this training, the customer will be able to: create an organization and perform initial setup, manage people (users) and teams, and manage repositories and repository access controls.
 
-If you are ready to take the next step, continue below to begin your education on Organizations and Teams!
+## <ins> Module Outline </ins>
+### Introduction to GitHub Organizations 
 
-# __Org Education Overview__
-## <ins>Decription</ins>
-This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some best practices.  This training is intended for any individual with a basic working knowledge of Git and GitHub Flow who wants to take the next step to better organize the development of their product. 
+Section summary: 
+In this section, we will get the trainee oriented to GitHub and GitHub Organizations
 
-## <ins>Goals</ins>
-- understand how to create an organization and perform initial setup.
-- learn basic navigation and structure of organizations.
-- understand managing people and teams.
-- understand repository management in an organization.
-- learn some best practices when it comes to managing an organization.
+* [Getting started]
+Topics covered: What are GitHub Organizations and how can they improve work flow
+Instruction method: Discussion with Q&A (5 mins)
 
-## <ins>Prerequisites</ins>
-It is recommended that you have a basic knowledge of GitHub and Workflow with GitHub.
-:point_down: These Learning Labs might help if you feel like you need a brush up:
-- [First Day on GitHub series](https://lab.github.com/githubtraining/first-day-on-github)
-- [First Week on GitHub series](https://lab.github.com/githubtraining/first-week-on-github)
+* [Creating your first organization]
+Topics covered: Creating an organization
+Instruction method: Discussion with Q&A; Hands on Exercise (5 mins)
 
-Although not entirely necessary, being familiar with **GitHub Actions** can help improve workflow and make your organization operate smoothly.
-:point_down: Check out the link below for more information:
-- [DevOps with GitHub Actions series](https://lab.github.com/githubtraining/devops-with-github-actions)
+### Exploring your Organization
 
-## <ins>Jump to Section</ins>
-This training  provides an overview of managing and creaing an organization.  If you would like to jump to a specific resource for learning, please follow the link below:
-- Learn GitHub Organizations by doing via [Github Learning Lab](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Learning%20Lab)
-- Learn GitHub Organizations by watching on [Youtube™](https://www.youtube.com/user/GitHubGuides)
-- Learn GitHub Organizations by reading via [GitHub Organizations Manual](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Manual)
-- TL:DR?  Checkout the [GitHub Organization Cheat Sheet](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Cheat%20Sheet)
+Section summary:
+
+In this section we will begin to explore the respository covering basic management principles such as adding users, assigning teams, creating repositories, and setting access controls
+
+* [Managing people]
+Topics covered:  Adding individual users to the Organization
+Instruction method: Discussion with Q&A; Hands on Exercise (5 mins)
+
+* [Creating your first team]
+Topics covered:  Creating teams and assigning permissions
+Instruction method: Discussion with Q&A; Hands on Exercise (5 mins)
+
+* [Creating your first repo]
+Topics covered:  Creating repositories within an organization
+Instruction method: Discussion with Q&A; Hands on Exercise (5 mins)
+
+* [Managing repo access]
+Topics covered:  Setting access controls for organization repositories
+Instruction method: Discussion with Q&A; Hands on Exercise (5 mins)
 
 
+## <ins> Assets </ins>
+Course specific assets:
 
+- [Manual](https://stephencbird.github.io/org_education_toolkit/)
+- [WIP: Github Learning Lab](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Learning%20Lab)
+- [WIP: GitHub Organization Cheat Sheet](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Cheat%20Sheet)
 
-Citations:
-[1]: [GitHub search feature](https://github.com/search?q=&ref=simplesearch)
-[2]: [Microsoft open source projects and samples}(https://github.com/microsoft)
-[3]: [Introduction to Python Github Learning Lab](https://lab.github.com/everydeveloper/introduction-to-python)
-[4]: [Git & GitHub:Organizations and Teams](http://www.youtube.com/watch?v=MpRQ3uucPaM)
