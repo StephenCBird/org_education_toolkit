@@ -1,5 +1,5 @@
 # Module: Managing a GitHub Organization
----
+
 ## <ins> Description </ins>
 This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some general best practices.  
 
@@ -12,8 +12,6 @@ At the conclusion of this training, the customer will be able to: create an orga
 ## <ins> Module Outline </ins>
 ### Introduction to GitHub Organizations 
 
-**Section summary:**
- 
 In this section, we will get the trainee oriented to GitHub and GitHub Organizations
 
 #### Getting started
@@ -22,11 +20,9 @@ In this section, we will get the trainee oriented to GitHub and GitHub Organizat
 
 #### Creating your first organization
   - Topics covered: Creating an organization
-  - Instruction method: Discussion with Q&A; Hands on Exercise (5 mins)
+  - Instruction method: Hands on Exercise (5 mins)
 
 ### Exploring your Organization
-
-**Section summary:**
 
 In this section we will begin to explore the respository covering basic management principles such as adding users, assigning teams, creating repositories, and setting access controls
 
