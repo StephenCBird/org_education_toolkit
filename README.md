@@ -13,7 +13,7 @@ It is recommended that trainees have a basic knowledge of GitHub and GitHub Flow
 At the conclusion of this training, the customer will be able to: create an organization and perform initial setup, manage people (users) and teams, and manage repositories and repository access controls.
 
 ## <ins> Module Outline </ins>
-### Introduction to GitHub Organizations 
+### <ins>Introduction to GitHub Organizations</ins>
 
 In this section, we will get the trainee oriented to GitHub and GitHub Organizations.
 
@@ -25,7 +25,7 @@ In this section, we will get the trainee oriented to GitHub and GitHub Organizat
   - Topics covered: Creating an organization
   - Instruction method: Hands on Exercise (5 mins)
 
-### Exploring your Organization
+### <ins>Exploring your Organization</ins>
 
 In this section we will begin to explore the respository covering basic management principles such as adding users, assigning teams, creating repositories, and setting access controls.
 
