@@ -3,6 +3,8 @@
 
 An organization is a collection of repositories that are typically maintained by an individual or business.  These repositories can be open source or private based on the goals of the organization.  An additional benefit of GitHub Organizations is the ability to manage individual users with **Teams**.  **Teams** act as a way to group similar contributors by access permissions or job responsibilities. **Teams** also allow an organization to communicate more effectively with a group working on a specific project.
 
+![GitHub_orgchart](img/GitHub_orgschart.png)
+
 ## Lets put this into action:
 
 Meet Stephen. 
