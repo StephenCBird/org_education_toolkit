@@ -11,26 +11,25 @@
 
 ## Module Outline
 
-| Section | Description | 
-| ----- | ----- |
-| 1 | **Topics covered:** _Getting started_  `What are GitHub Organizations?` | 
-|   | **Instruction method:** Discussion with Q&A (5 mins) |
-|   | **Assessment:** trainee  conceptualize and verbalize organization on GitHub Organizations |
-| 2 | **Topics covered:** _Creating your first organization_  `How to create a GitHub Organization` | 
-|   | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
-|   | **Assessment:** Hands on Exercise return demonstration |
-| 3 | **Topics covered:** _Managing people_  `Adding individual users to your organization` | 
-|   | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
-|   | **Assessment:** Hands on Exercise return demonstration |
-| 4 | **Topics covered:** _Creating your first team_  `Creating teams and assigning permissions` | 
-|   | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
-|   | **Assessment:** Hands on Exercise return demonstration |
-| 5 | **Topics covered:** _Creating your first repo_  `Creating repositories within a GitHub Organization` | 
-|   | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
-|   | **Assessment:** Hands on Exercise return demonstration |
-| 6 | **Topics covered:** _Managing repo access_  `Setting access controls for organization repositories` | 
-|   | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
-|   | **Assessment:** Hands on Exercise return demonstration |
+| Section | Section Title | Description | 
+| ----- | ----- | ----- |
+| 1 | _Getting started_ | **Topics covered:** `What are GitHub Organizations?` | 
+|   | | **Instruction method:** Discussion with Q&A (5 mins) |
+|   | | **Assessment:** trainee  conceptualize and verbalize organization on GitHub Organizations |
+| 2 | _Creating your first organization_ | **Topics covered:** `How to create a GitHub Organization` | 
+|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+|   | | **Assessment:** Hands on Exercise return demonstration |
+| 3 | _Managing people_ | **Topics covered:** `Adding individual users to your organization` | 
+|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+|   | | **Assessment:** Hands on Exercise return demonstration |
+| 4 | _Creating your first team_  | **Topics covered:** `Creating teams and assigning permissions` | 
+|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+|   | | **Assessment:** Hands on Exercise return demonstration |
+|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+|   | | **Assessment:** Hands on Exercise return demonstration |
+| 6 | _Managing repo access_ | **Topics covered:**  `Setting access controls for organization repositories` | 
+|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+|   | |**Assessment:** Hands on Exercise return demonstration |
 
 
 
