@@ -1,7 +1,7 @@
 # Manage access
 
 _description_
-_we created a private repo so we need to add a team to it so they can have write access_
+_we created a private repo so we need to add a team to it so they can have access_
 
 ## Add a team to a repository
 
