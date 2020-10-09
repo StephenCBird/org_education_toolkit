@@ -13,23 +13,25 @@
 
 | Section | Section Title | Description | 
 | ----- | ----- | ----- |
-| 1 | _Getting started_ | **Topics covered:** `What are GitHub Organizations?` | 
-|   | | **Instruction method:** Discussion with Q&A (5 mins) |
+| ##1.0## | | In these sections, we will get the trainee oriented to GitHub and GitHub Organizations. |
+| 1.1 | _Getting started_ | **Topics covered:** `What are GitHub Organizations?` |
+|   | | **Instruction method:** Discussion with Q&A  (5 mins) |
 |   | | **Assessment:** Trainee conceptualize and verbalize organization on GitHub Organizations |
-| 2 | _Creating your first organization_ | **Topics covered:** `How to create a GitHub Organization` | 
-|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+| 1.2 | _Creating your first organization_ | **Topics covered:** `How to create a GitHub Organization` | 
+|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise (5 mins) |
 |   | | **Assessment:** Hands on Exercise return demonstration |
-| 3 | _Managing people_ | **Topics covered:** `Adding individual users to your organization` | 
-|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+| ##2.0## | | In these sections, we will begin to explore the respository covering basic management principles such as adding users, assigning teams, creating repositories, and setting access controls. |
+| 2.1 | _Managing people_ | **Topics covered:** `Adding individual users to your organization` | 
+|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise (5 mins) |
 |   | | **Assessment:** Hands on Exercise return demonstration |
-| 4 | _Creating your first team_  | **Topics covered:** `Creating teams and assigning permissions` | 
-|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+| 2.2 | _Creating your first team_  | **Topics covered:** `Creating teams and assigning permissions` | 
+|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise (5 mins) |
 |   | | **Assessment:** Hands on Exercise return demonstration |
-| 5 | _Creating your first repo_  | **Topics covered:**  `Creating repositories within a GitHub Organization` | 
-|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+| 2.3 | _Creating your first repo_  | **Topics covered:**  `Creating repositories within a GitHub Organization` | 
+|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise (5 mins) |
 |   | | **Assessment:** Hands on Exercise return demonstration |
-| 6 | _Managing repo access_ | **Topics covered:** `Setting access controls for organization repositories` | 
-|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+| 2.4 | _Managing repo access_ | **Topics covered:** `Setting access controls for organization repositories` | 
+|   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise (5 mins) |
 |   | |**Assessment:** Hands on Exercise return demonstration |
 
 
@@ -37,43 +39,4 @@
 
 
 
-## <ins> Module Outline </ins>
-### <ins>Introduction to GitHub Organizations</ins>
-
-In this section, we will get the trainee oriented to GitHub and GitHub Organizations.
-
-#### Getting started
-  - Topics covered: What are GitHub Organizations and how can they improve work flow
-  - Instruction method: Discussion with Q&A (5 mins)
-
-#### Creating your first organization
-  - Topics covered: Creating an organization
-  - Instruction method: Hands on Exercise (5 mins)
-### <ins>Exploring your Organization</ins>
-
-In this section we will begin to explore the respository covering basic management principles such as adding users, assigning teams, creating repositories, and setting access controls.
-
-#### Managing people
-  - Topics covered:  Adding individual users to the Organization
-  - Instruction method: Discussion with Q&A; Hands on Exercise (5 mins)
-
-#### Creating your first team
-  - Topics covered:  Creating teams and assigning permissions
-  - Instruction method: Discussion with Q&A; Hands on Exercise (5 mins)
-
-#### Creating your first repo
-  - Topics covered:  Creating repositories within an organization
-  - Instruction method: Discussion with Q&A; Hands on Exercise (5 mins)
-
-#### Managing repo access
-  - Topics covered:  Setting access controls for organization repositories
-  - Instruction method: Discussion with Q&A; Hands on Exercise (5 mins)
-
-
-## <ins> Assets </ins>
-Course specific assets:
-
-- [Manual](https://stephencbird.github.io/org_education_toolkit/)
-- [WIP: Github Learning Lab](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Learning%20Lab)
-- [WIP: GitHub Organization Cheat Sheet](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Cheat%20Sheet)
 
