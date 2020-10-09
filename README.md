@@ -15,7 +15,7 @@
 | ----- | ----- | ----- |
 | 1 | _Getting started_ | **Topics covered:** `What are GitHub Organizations?` | 
 |   | | **Instruction method:** Discussion with Q&A (5 mins) |
-|   | | **Assessment:** trainee  conceptualize and verbalize organization on GitHub Organizations |
+|   | | **Assessment:** Trainee conceptualize and verbalize organization on GitHub Organizations |
 | 2 | _Creating your first organization_ | **Topics covered:** `How to create a GitHub Organization` | 
 |   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
 |   | | **Assessment:** Hands on Exercise return demonstration |
@@ -25,9 +25,10 @@
 | 4 | _Creating your first team_  | **Topics covered:** `Creating teams and assigning permissions` | 
 |   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
 |   | | **Assessment:** Hands on Exercise return demonstration |
+| 5 | _Creating your first repo_  | **Topics covered:**  `Creating repositories within a GitHub Organization` | 
 |   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
 |   | | **Assessment:** Hands on Exercise return demonstration |
-| 6 | _Managing repo access_ | **Topics covered:**  `Setting access controls for organization repositories` | 
+| 6 | _Managing repo access_ | **Topics covered:** `Setting access controls for organization repositories` | 
 |   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
 |   | |**Assessment:** Hands on Exercise return demonstration |
 
