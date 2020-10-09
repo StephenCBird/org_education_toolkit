@@ -17,7 +17,11 @@ At first, it worked.
 
 ![scb_repo](img/StephenCBird_repo.png)
 
-As his company grew, this process became taxing and unsustainable.  Stephen needed a better way to manage his employees and their access to work repositories.  In comes GitHub Organizations. With GitHub Organizations, Stephen was able to create teams for his employees.  He could now give his teams access to the repositories they needed as opposed to individual employees.  Stephen was able to better manage his employees access on a scalable platform.
+As his company grew, this process became taxing and unsustainable.  Stephen needed a better way to manage his employees and their access to work repositories.  In comes GitHub Organizations. With GitHub Organizations, Stephen was able to create teams for his employees.  
+
+![scb_teams](img/team_breakdown.png)
+
+He could now give his teams access to the repositories they needed as opposed to individual employees.  Stephen was able to better manage his employees access on a scalable platform.
 
 ![scb_org](img/StephenCBird_org.png)
 
