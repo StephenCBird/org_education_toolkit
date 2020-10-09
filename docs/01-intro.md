@@ -1,4 +1,4 @@
-# Getting Started with GitHub Organizations
+# <ins>Getting Started with GitHub Organizations</ins>
 ## What are GitHub Organizations?
 
 An organization is a collection of repositories that are typically maintained by an individual or business.  These repositories can be open source or private based on the goals of the organization.  An additional benefit of GitHub Organizations is the ability to manage individual users with teams.  Teams act as a way to group similar contributors by access permissions or job responsibilities.  Teams also allow an organization to communicate more effectively with a group working on a specific project.
