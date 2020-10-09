@@ -11,26 +11,31 @@
 
 ## Module Outline
 
-| Section | Description |
+| Section | Description | 
 | ----- | ----- |
-| 1 | **Topics covered:** things | 
-|   | **Instruction method:** things |
-|   | **Assessment:** things |
-| 2 | desc |
+| 1 | **Topics covered:** _Getting started_  `What are GitHub Organizations?` | 
+|   | **Instruction method:** Discussion with Q&A (5 mins) |
+|   | **Assessment:** trainee  conceptualize and verbalize organization on GitHub Organizations |
+| 2 | **Topics covered:** _Creating your first organization_  `How to create a GitHub Organization` | 
+|   | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+|   | **Assessment:** Hands on Exercise return demonstration |
+| 3 | **Topics covered:** _Managing people_  `Adding individual users to your organization` | 
+|   | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+|   | **Assessment:** Hands on Exercise return demonstration |
+| 4 | **Topics covered:** _Creating your first team_  `Creating teams and assigning permissions` | 
+|   | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+|   | **Assessment:** Hands on Exercise return demonstration |
+| 5 | **Topics covered:** _Creating your first repo_  `Creating repositories within a GitHub Organization` | 
+|   | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+|   | **Assessment:** Hands on Exercise return demonstration |
+| 6 | **Topics covered:** _Managing repo access_  `Setting access controls for organization repositories` | 
+|   | **Instruction method:** Instructor lead demonstration with Hands on Exercise |
+|   | **Assessment:** Hands on Exercise return demonstration |
 
-# Module: Managing a GitHub Organization
 
-## <ins> Description </ins>
-This training is intended to provide a high level overview of organization management including general overviews of structure and navigation; team and user management; repository management in organizations; and some general best practices.  
 
-## <ins> Target Audience </ins>
-This training is intended for system administrators or development team leads who are responsible for managing an organization's transition to using GitHub Organizations. 
 
-## <ins> Prerequisites </ins>
-It is recommended that trainees understand the goals and expectations of the business and development teams for the implementation of a GitHub Organization.  
 
-## <ins> Customer Behavioral Outcomes </ins>
-At the conclusion of this training, the customer will be able to: create an organization and perform initial setup, manage people (users) and teams, and manage repositories and repository access controls.
 
 ## <ins> Module Outline </ins>
 ### <ins>Introduction to GitHub Organizations</ins>
