@@ -1,4 +1,4 @@
-![logo](img/poptocat_v2.png)
+![logo](img/poptocat_v2.png =427x427)
 
 # Introduction to GitHub Organizations
 
