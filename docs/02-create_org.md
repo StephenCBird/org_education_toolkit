@@ -10,7 +10,7 @@
  
     **NOTE:** GitHub offers Organizations free of charge to all users. Different plans offer different functionality. For more information, [click here](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/githubs-products#github-free-for-organizations). 
 
-1. Once you have selected **Join for free**, you will be prompted to enter your organization's information. Enter the **Organization account name**, **Contact email**, and then select who the organization belongs to either **My personal account** or **A business or institution**.  For this training select, **A business or institution**.
+1. Once you have selected **Join for free**, you will be prompted to enter your organization's information. Enter the **Organization account name**, **Contact email**, and then select who the organization belongs to either **My personal account** or **A business or institution**.  For this training enter, `username-training-org`, enter your `email`, and select, **A business or institution**.
 
     ![init setup](/img/create/org_init_setup.png)
 
