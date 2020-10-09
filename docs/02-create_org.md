@@ -22,7 +22,7 @@
 
     ![welcome members](/img/create/create_org_add_members.png)
 
-1. From here, we can add members by searching by username, full name, or email address.  For this training, click **Skip this step**.
+1. From here, we can add members by searching by _username_, _full name_, or _email address_.  For this training, click **Skip this step**.
 
 #### Congratulations!
 You've just created your first GitHub Organization!

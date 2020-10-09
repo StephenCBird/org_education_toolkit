@@ -1,20 +1,22 @@
-# Getting Started with GitHub Organizations
-## <ins>Description</ins>
-This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some best practices.  This training is intended for any individual with a basic working knowledge of Git and GitHub Flow who wants to take the next step to better organize the development of their product. 
+# Manage people 
 
-## <ins>Goals</ins>
-- understand how to create an organization and perform initial setup.
-- learn basic navigation and structure of organizations.
-- understand managing people and teams.
-- understand repository management in an organization.
-- learn some best practices when it comes to managing an organization.
+_description_
 
-## <ins>Prerequisites</ins>
-It is recommended that you have a basic knowledge of GitHub and Workflow with GitHub.
-These Learning Labs might help if you feel like you need a brush up:
-- [First Day on GitHub series](https://lab.github.com/githubtraining/first-day-on-github)
-- [First Week on GitHub series](https://lab.github.com/githubtraining/first-week-on-github)
+## Add a new contributor
 
-Although not entirely necessary, being familiar with **GitHub Actions** can help improve workflow and make your organization operate smoothly.
-Check out the link below for more information:
-- [DevOps with GitHub Actions series](https://lab.github.com/githubtraining/devops-with-github-actions)
+1. From your organization homepage, click **People**.
+1. Click **Invite member**.
+1. In the search field, enter the _username_, _full name_, or _email address_ of a user. For this training, enter `StephenCBird`.
+1. Select a role for the new contributor. For this training, select **Member**.
+1. Click **Send invitation**.
+
+After you have invited a member to your organization, their invitation will be displayed in the **Pending invitation** pane. If you need to edit or cancel the invitation, click on the **gear icon** next to the user's invitation.
+
+## Removing a contributor
+
+In this training, we won't be removing a member. If you ever find that you need to remove someone from your organization, follow these steps:  
+
+1. From your organization homepage, click **People**.
+1. Click the **gear icon** next to the user on the **Members** pane.
+1. Select **Remove from organization...**
+1. Confirm the member removal by clicking **Remove members**.

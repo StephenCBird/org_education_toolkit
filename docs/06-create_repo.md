@@ -1,20 +1,20 @@
-# Getting Started with GitHub Organizations
-## <ins>Description</ins>
-This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some best practices.  This training is intended for any individual with a basic working knowledge of Git and GitHub Flow who wants to take the next step to better organize the development of their product. 
+# Create a repository
 
-## <ins>Goals</ins>
-- understand how to create an organization and perform initial setup.
-- learn basic navigation and structure of organizations.
-- understand managing people and teams.
-- understand repository management in an organization.
-- learn some best practices when it comes to managing an organization.
+Now that we have some people (users) and a team, we should create a repository so that we can assign them ownership to it. When setting up your organization, you might create repositories _before_ adding users or creating teams and that is absolutely ok.
 
-## <ins>Prerequisites</ins>
-It is recommended that you have a basic knowledge of GitHub and Workflow with GitHub.
-These Learning Labs might help if you feel like you need a brush up:
-- [First Day on GitHub series](https://lab.github.com/githubtraining/first-day-on-github)
-- [First Week on GitHub series](https://lab.github.com/githubtraining/first-week-on-github)
+## Add a repo
 
-Although not entirely necessary, being familiar with **GitHub Actions** can help improve workflow and make your organization operate smoothly.
-Check out the link below for more information:
-- [DevOps with GitHub Actions series](https://lab.github.com/githubtraining/devops-with-github-actions)
+1. From your organization homepage, click **New**.
+1. Enter a repository name in the **Repository name** field. For this training, enter `example-repo`.
+1. Provide a description for your repository. For this training, enter `An example repository for a training`.
+1. In the repository visibility section, select **Private**.
+1. Select the **Add a README file** in the **Initialize this repository with:** section.
+
+### What are repository visibilities?
+
+_description_
+
+### What are the repository initialization options?
+
+_description_
+

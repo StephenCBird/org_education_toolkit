@@ -1,20 +1,18 @@
-# Getting Started with GitHub Organizations
-## <ins>Description</ins>
-This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some best practices.  This training is intended for any individual with a basic working knowledge of Git and GitHub Flow who wants to take the next step to better organize the development of their product. 
+# Manage access
 
-## <ins>Goals</ins>
-- understand how to create an organization and perform initial setup.
-- learn basic navigation and structure of organizations.
-- understand managing people and teams.
-- understand repository management in an organization.
-- learn some best practices when it comes to managing an organization.
+_description_
+- we created a private repo so we need to add a team to it so they can have write access
 
-## <ins>Prerequisites</ins>
-It is recommended that you have a basic knowledge of GitHub and Workflow with GitHub.
-These Learning Labs might help if you feel like you need a brush up:
-- [First Day on GitHub series](https://lab.github.com/githubtraining/first-day-on-github)
-- [First Week on GitHub series](https://lab.github.com/githubtraining/first-week-on-github)
+## Add a team to a repository
 
-Although not entirely necessary, being familiar with **GitHub Actions** can help improve workflow and make your organization operate smoothly.
-Check out the link below for more information:
-- [DevOps with GitHub Actions series](https://lab.github.com/githubtraining/devops-with-github-actions)
+1. From your organization homepage, select a repository. For this training, select the `example-repo`.
+1. Click the **Settings** tab.
+1. Select **Manage access** from the pane on the left side of the screen.
+1. Click **Invite teams or people**.
+1. Enter the _team name_, _username_, _full name_, or _email_ of the individual or team you want to provide access to the repository to. For this training, enter `example-team`.
+1. Select the `your-organization/example-team` from the list that is displayed.
+1. Select the role you want to assign the team. For this training, select **Admin**.
+
+### What are repository roles?
+
+_description_

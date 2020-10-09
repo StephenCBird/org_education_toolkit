@@ -1,20 +1,27 @@
-# Getting Started with GitHub Organizations
-## <ins>Description</ins>
-This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some best practices.  This training is intended for any individual with a basic working knowledge of Git and GitHub Flow who wants to take the next step to better organize the development of their product. 
+# Create a team
 
-## <ins>Goals</ins>
-- understand how to create an organization and perform initial setup.
-- learn basic navigation and structure of organizations.
-- understand managing people and teams.
-- understand repository management in an organization.
-- learn some best practices when it comes to managing an organization.
+_description_
 
-## <ins>Prerequisites</ins>
-It is recommended that you have a basic knowledge of GitHub and Workflow with GitHub.
-These Learning Labs might help if you feel like you need a brush up:
-- [First Day on GitHub series](https://lab.github.com/githubtraining/first-day-on-github)
-- [First Week on GitHub series](https://lab.github.com/githubtraining/first-week-on-github)
+## Add a team
 
-Although not entirely necessary, being familiar with **GitHub Actions** can help improve workflow and make your organization operate smoothly.
-Check out the link below for more information:
-- [DevOps with GitHub Actions series](https://lab.github.com/githubtraining/devops-with-github-actions)
+1. From your organization homepage, click **Teams**.
+1. Click **New team**.
+1. Enter a **Team name** and **Description** in the applicable fields. For this training, enter `example-team` in the **Team name** field and `creating a team as an example` in the **Description** field.
+1. Skip the **Parent team** field and leave the **Team visibility** as `Visible`.
+1. Click **Create team**.
+
+### What are parent teams?
+
+_description_
+
+### What is team visibility?
+
+_description_
+
+## Add contributors to your team
+
+With your new team created, it is time to add new people to your team. Since you created the team, you were automatically assigned to it. Lets add `StephenCBird` to your new team.
+
+1. From the team homepage, click **Members**.
+1. Click **Add a member**
+1. In the search field, enter the _username_, _full name_, or _email address_ of a user. For this training, enter `StephenCBird`.
