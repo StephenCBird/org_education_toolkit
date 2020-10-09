@@ -11,7 +11,7 @@ Meet Stephen.
 
 ![image of me](https://avatars2.githubusercontent.com/u/42813339?s=60&v=4)
 
-Stephen started a business and runs his business using repositories on GitHub.com. As his business grew, he needed help.  He hired more employees and invited individual employees to work on the repositories on his personal account.
+Stephen started a business using repositories on GitHub.com. As his business grew, he needed help.  He hired more employees and invited individual employees to work on the repositories on his personal account.
 
 At first, it worked. 
 
