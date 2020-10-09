@@ -13,14 +13,14 @@
 
 | Section | Section Title | Description | 
 | ----- | ----- | ----- |
-| ##1.0## | | In these sections, we will get the trainee oriented to GitHub and GitHub Organizations. |
+| **1.0** | | In these sections, we will get the trainee oriented to GitHub and GitHub Organizations. |
 | 1.1 | _Getting started_ | **Topics covered:** `What are GitHub Organizations?` |
 |   | | **Instruction method:** Discussion with Q&A  (5 mins) |
 |   | | **Assessment:** Trainee conceptualize and verbalize organization on GitHub Organizations |
 | 1.2 | _Creating your first organization_ | **Topics covered:** `How to create a GitHub Organization` | 
 |   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise (5 mins) |
 |   | | **Assessment:** Hands on Exercise return demonstration |
-| ##2.0## | | In these sections, we will begin to explore the respository covering basic management principles such as adding users, assigning teams, creating repositories, and setting access controls. |
+| **2.0** | | In these sections, we will begin to explore the respository covering basic management principles such as adding users, assigning teams, creating repositories, and setting access controls. |
 | 2.1 | _Managing people_ | **Topics covered:** `Adding individual users to your organization` | 
 |   | | **Instruction method:** Instructor lead demonstration with Hands on Exercise (5 mins) |
 |   | | **Assessment:** Hands on Exercise return demonstration |
