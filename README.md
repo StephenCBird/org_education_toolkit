@@ -1,18 +1,21 @@
 # Module: Managing a GitHub Organization
 
 ## <ins> Description </ins>
-This training is intended to provide a high level overview of organization management including general overviews of structure and navigation, teams, repositories in organizations, and some general best practices.  
+This training is intended to provide a high level overview of organization management including general overviews of structure and navigation; team and user management; repository management in organizations; and some general best practices.  
 
 ## <ins> Target Audience </ins>
-This training is intended for system administrators or development team leads who are responsible for managing an organizations transition to using GitHub Organizations. 
+This training is intended for system administrators or development team leads who are responsible for managing an organization's transition to using GitHub Organizations. 
+
+## <ins> Prerequisites </ins>
+It is recommended that trainees have a basic knowledge of GitHub and GitHub Flow.  
 
 ## <ins> Customer Behavioral Outcomes </ins>
 At the conclusion of this training, the customer will be able to: create an organization and perform initial setup, manage people (users) and teams, and manage repositories and repository access controls.
 
 ## <ins> Module Outline </ins>
-### Introduction to GitHub Organizations 
+### <ins>Introduction to GitHub Organizations</ins>
 
-In this section, we will get the trainee oriented to GitHub and GitHub Organizations
+In this section, we will get the trainee oriented to GitHub and GitHub Organizations.
 
 #### Getting started
   - Topics covered: What are GitHub Organizations and how can they improve work flow
@@ -22,9 +25,9 @@ In this section, we will get the trainee oriented to GitHub and GitHub Organizat
   - Topics covered: Creating an organization
   - Instruction method: Hands on Exercise (5 mins)
 
-### Exploring your Organization
+### <ins>Exploring your Organization</ins>
 
-In this section we will begin to explore the respository covering basic management principles such as adding users, assigning teams, creating repositories, and setting access controls
+In this section we will begin to explore the respository covering basic management principles such as adding users, assigning teams, creating repositories, and setting access controls.
 
 #### Managing people
   - Topics covered:  Adding individual users to the Organization
