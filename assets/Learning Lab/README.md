@@ -1,3 +1,5 @@
+> Disclaimer:  This is a work in progress.  This is an option that is still being developed where an individual could do a learning lab instead of a manual or instructor led course.
+
 # <ins>Learning Lab Outline</ins>
 
 ## <Ins>1. general org overview</ins>

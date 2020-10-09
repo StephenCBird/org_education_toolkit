@@ -1,3 +1,5 @@
+> Disclaimer: This is a work in progress.  This would be an option for individuals familiar with GitHub Organizations to use as a refresher to quickly navigate to specific topics which may benefit their company.
+
 # Cheat Sheet
 
 ## Glossary of terms
