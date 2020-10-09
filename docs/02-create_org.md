@@ -25,7 +25,7 @@
 1. From here, we can add members by searching by _username_, _full name_, or _email address_.  For this training, click **Skip this step**.
 
 #### Congratulations!
-You've just created your first GitHub Organization!
+You have just created your first GitHub Organization!
 
 ![success](img/create/create_org_success.png)
 ![celebration octocat](https://octodex.github.com/images/welcometocat.png)
