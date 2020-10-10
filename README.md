@@ -1,8 +1,8 @@
 Hello GitHub! :wave:
 
-I created this training module based on my previous experience moving from a user account with repositories to GitHub Organizations. There is an assortment of great material out there on general GitHub use (like [this help document about organizations](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-organizations-and-teams/about-organizations) or [this introduction to Git and GitHub](https://www.youtube.com/watch?v=47E-jcuQz5c&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4)), and even a specific video on [teams and organizations](https://www.youtube.com/watch?v=MpRQ3uucPaM).
+I created this training module based on my previous experience moving from a user account with repositories to GitHub Organizations. There is an assortment of great material out there on general GitHub use (like [this help document about organizations](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-organizations-and-teams/about-organizations) or [this introduction to Git and GitHub](https://www.youtube.com/watch?v=47E-jcuQz5c&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4)), and even a specific video on [teams and organizations](https://www.youtube.com/watch?v=MpRQ3uucPaM), if you are interested.
 
-This education was born out of me wanting to learn more about the "why" of creating organizations and managing them on GitHub. 
+This education, however, was born out of me wanting to learn more about the "why" of creating organizations and managing them on GitHub. 
 
 - Why should I use an organization?
 - What benefits do I get over a personal account?
