@@ -19,7 +19,7 @@ This education, however, was born out of me wanting to learn more about the "why
 | Delivery Methods | This course (as written) is intended to be delivered as an instructor led course. There are opportunities to modify this course for delivery via Learning Lab or as a Youtube video series |  
 | Prerequisites | It is recommended that trainees understand the goals and expectations of the business, operations, and development teams for the implementation of a GitHub Organization. |
 | Assets |  [Manual](https://stephencbird.github.io/org_education_toolkit/) |
-| WIP Assets | [WIP: Github Learning Lab](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Learning%20Lab), [WIP: GitHub Organization Cheat Sheet](https://github.com/StephenCBird/org_education_toolkit/tree/main/org_education_toolkit/Assets/Cheat%20Sheet) |
+| WIP Assets | [WIP: Github Learning Lab](https://github.com/StephenCBird/org_education_toolkit/tree/main/assets/Learning%20Lab), [WIP: GitHub Organization Cheat Sheet](https://github.com/StephenCBird/org_education_toolkit/tree/main/assets/Cheat%20Sheet) |
 
 ## Module Outline
 
