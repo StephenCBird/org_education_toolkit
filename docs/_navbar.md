@@ -1,4 +1,4 @@
 Select Organization Tier
-* [Free](/docs)
+* [Free](/docs/01-intro.md)
 * [Team](/docs)
 * [Enterprise](/docs)
